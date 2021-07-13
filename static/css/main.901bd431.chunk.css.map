@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss"],"names":[],"mappings":"AAAA,UACE,SAAU,CACV,eAAgB","file":"main.901bd431.chunk.css","sourcesContent":[".username {\n  color: red;\n  font-style: bold;\n}\n"]}
